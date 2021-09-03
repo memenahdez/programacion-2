@@ -1,7 +1,8 @@
 #Calcular IMC
 
 mi_peso = 55
-IMC = mi_peso/(1.55)**2
+mi_altura = 1.55
+IMC = mi_peso/(mi_altura)**2
 
 
 print("El IMC de Ximena es")
